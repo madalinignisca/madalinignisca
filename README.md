@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Recruiters: I am not looking for a job!**
+**Recruiters: I am not looking for a job! Project or long term contracting available**
 
 I'm a web developer and system engineer specialized on PHP, JavaScript, MySQL, Docker and Kubernetes.
 
