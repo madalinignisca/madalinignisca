@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-**Recruiters: I am not looking for a job in the office! Project or long term contracting available**
-
 I'm a web developer and system engineer specialized on PHP, JavaScript, MySQL, Docker and Kubernetes.
 
 I make my life easy by building backends using Laravel and frontends with React/NextJS and Tailwind/Daisy.
-Orchid completes the administration panels for apps.
+Filament completes the administration panels for apps.
 
 I automate everything from testing, container image builds, to deployments, backups and recovery strategies.
 
 I can manage, support and lead teams for large and complex projects.
+
+Contact me if you want to talk about an interesting project.
 
 - 🔭 I’m currently working on my personal project [No Sweat Cloud](https://nosweat.cloud).
 - 🌱 I’m currently learning more Kubernetes, React, TypeScript, advanced SQL.
